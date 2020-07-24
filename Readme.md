@@ -1,4 +1,7 @@
 Hi there!
 
 
-My Blog: https://ea.chat
+- My blog: https://github.com/GalAster/blog.source/tree/master
+- My resume: 
+- My hobbies:
+  - https://sola.ea.chat/
