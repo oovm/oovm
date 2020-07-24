@@ -9,9 +9,8 @@ Hi there!
 
 ## Deep Learning
 
-- Generate model library: [StyleGAN-Zoo](https://github.com/GalAster/StyleGAN-Zoo)
-- Generate model library: [StyleGAN2-Zoo]()
-- Generate model library: [WaifuGAN-Zoo]()
+- Generate model: [StyleGAN-Zoo](https://github.com/GalAster/StyleGAN-Zoo)/[StyleGAN2-Zoo]()
+- Generate waifu: [WaifuGAN-Zoo]()
 
 ## Languages
 
