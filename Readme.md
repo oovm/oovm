@@ -1,15 +1,10 @@
 - My blog: https://github.com/GalAster/blog.source/tree/master
 - My resume: 
 - My hobbies:
-  - 🎼 https://sola.ea.chat/
-  - 🚀 https://euler-project.netlify.app/
-
-
-## Deep Learning
-
-- Generate model: [StyleGAN-Zoo](https://github.com/GalAster/StyleGAN-Zoo)/[StyleGAN2-Zoo]()
-- Generate waifu: [WaifuGAN-Zoo]()
-- Papers with download: [CV_List](https://github.com/GalAster/CV_List)
+  - 🎼 https://sola.ea.chat
+  - 🚀 https://euler.ea.chat
+  - 🔮 https://github.com/GalAster/crypto-moe
+  - 🎀 https://github.com/GalAster/love-kyaru
 
 ## Languages
 
@@ -19,9 +14,14 @@
 - Chinese programming language: [Wenyan language](https://wenyan.netlify.app/basic)
 - Lisp × Mathematica: [Lislitica language](https://github.com/nyar-lang/Lislitica)
 
-## Cryptography
+## Deep Learning
 
-https://github.com/GalAster/crypto-moe
+- Generate model: [StyleGAN-Zoo](https://github.com/GalAster/StyleGAN-Zoo)/[StyleGAN2-Zoo]()
+- Generate waifu: [WaifuGAN-Zoo]()
+- Papers with download: [CV_List](https://github.com/GalAster/CV_List)
+
+## Data Set
+
 
 ## Books
 
