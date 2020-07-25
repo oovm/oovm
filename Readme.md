@@ -23,11 +23,8 @@
 - Generate waifu: [WaifuGAN-Zoo]()
 - Papers with download: [CV_List](https://github.com/GalAster/CV_List)
 
-## Data Set
-
-
 ## Books
 
 
-
+- Probability theory for games: [氪皇默示录](https://github.com/GalAster/Tales-of-Kejin)
 
