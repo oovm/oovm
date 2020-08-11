@@ -1,5 +1,4 @@
-<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=galaster&exclude_lang=html+javascript" />
-
+<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=galaster&exclude_lang=html+javascript+arc" />
 
 - My blog: https://github.com/GalAster/blog.source/tree/master
 - My resume: 
@@ -27,4 +26,5 @@
 
 
 - Probability theory for games: [氪皇默示录](https://github.com/GalAster/Tales-of-Kejin)
+
 
