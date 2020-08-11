@@ -1,4 +1,4 @@
-<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=galaster" />
+<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=galaster&exclude_lang=html+javascript" />
 
 
 - My blog: https://github.com/GalAster/blog.source/tree/master
