@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaster" />
+<img align="right" src="https://github-readme-stats-topaz-eight.vercel.app/api/top-langs/?username=galaster" />
 
 
 - My blog: https://github.com/GalAster/blog.source/tree/master
