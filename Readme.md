@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaster&hide=HTML" />
+<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=galaster&exclude_lang=html+javascript" />
 
 
 - My blog: https://github.com/GalAster/blog.source/tree/master
@@ -6,8 +6,8 @@
 - My hobbies:
   - 🎼 https://sola.ea.chat
   - 🚀 https://euler.ea.chat
-  - 🔮 https://github.com/GalAster/crypto-moe
-  - 🎀 https://github.com/GalAster/love-kyaru
+  - 🔮 [https://crypto.ea.chat](https://github.com/GalAster/crypto-moe)
+  - 🎀 [https://kyaru.ea.chat](https://github.com/GalAster/love-kyaru)
 
 ## Languages
 
