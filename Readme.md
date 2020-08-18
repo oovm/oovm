@@ -10,19 +10,21 @@
 
 ## Languages
 
-- Exchange format from Json: [Arc language](https://arc-lang.netlify.app)
-- Markup language like TeX: [Notedown language](https://notedown-language.netlify.app/cn/basic)
-- General programming language: [Valkyrie language](https://valkyrie-language.netlify.app/cn/basic/#literal)
-- Free type calculus: [Vampire language]()
-- Multi-level IR optimization: [Vanilla language]()
-- Chinese programming language: [Wenyan language](https://wenyan.netlify.app/basic)
-- Lisp × Mathematica: [Lislitica language](https://github.com/nyar-lang/Lislitica)
+- Exchange format from Json: [Arc Language](https://arc-lang.netlify.app)
+- Markup language like TeX: [Notedown Language](https://notedown-language.netlify.app/cn/basic)
+- General programming language: [Valkyrie Language](https://valkyrie-language.netlify.app/cn/basic/#literal)
+- Free type calculus: [Vampire Language]()
+- Multi-level IR optimization: [Vanilla Language]()
+- Test data generation: [Fake Language]()
+- Chinese programming language: [Wenyan Language](https://wenyan.netlify.app/basic)
+- Lisp × Mathematica: [Lislitica Language](https://github.com/nyar-lang/Lislitica)
+
 
 ## Deep Learning
 
 - Generate model: [StyleGAN-Zoo](https://github.com/GalAster/StyleGAN-Zoo)/[StyleGAN2-Zoo]()
 - Generate waifu: [WaifuGAN-Zoo]()
-- Papers with download: [CV_List](https://github.com/GalAster/CV_List)
+- Papers with download: [CV_List](https://github.com/GalAster/CV_List)/[NLP List]()
 
 ## Books
 
