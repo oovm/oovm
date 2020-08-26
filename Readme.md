@@ -15,6 +15,7 @@
 - General programming language: [Valkyrie Language](https://valkyrie-language.netlify.app/cn/basic/#literal)
 - Free type calculus: [Vampire Language]()
 - Multi-level IR optimization: [Vanilla Language]()
+- Computer Algebra System: [Simple Math]()
 - Test data generation: [Fake Language]()
 - Chinese programming language: [Wenyan Language](https://wenyan.netlify.app/basic)
 - Lisp × Mathematica: [Lislitica Language](https://github.com/nyar-lang/Lislitica)
