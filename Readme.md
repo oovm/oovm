@@ -5,7 +5,7 @@
 - My hobbies:
   - 🎼 https://sola.ea.chat
   - 🚀 https://euler.ea.chat
-  - 🔮 [https://crypto.ea.chat](https://github.com/GalAster/crypto-moe)
+  - 🔮 https://crypto.ea.chat
   - 🎀 [https://kyaru.ea.chat](https://github.com/GalAster/love-kyaru)
 
 ## Languages
