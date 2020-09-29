@@ -33,4 +33,5 @@
 
 - Probability theory for games: [氪皇默示录](https://github.com/GalAster/Tales-of-Kejin)
 
+![](https://github-profile-trophy.vercel.app/?username=galaster)
 
