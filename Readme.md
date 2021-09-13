@@ -20,7 +20,7 @@
 - Test data generation: [Fake Language]()
 - Chinese programming language: [Wenyan Language](https://wenyan.netlify.app/basic)
 - Lisp × Mathematica: [Lislitica Language](https://github.com/nyar-lang/Lislitica)
-
+- Esoteric language of chemistry: [Non Molecular Structure Language](https://github.com/GalAster/non-molecular-structure-language)
 
 ## Deep Learning
 
